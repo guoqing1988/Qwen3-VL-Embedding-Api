@@ -54,6 +54,44 @@ Building on the success of our text-oriented [Qwen3-Embedding](https://huggingfa
   - Strong performance with quantized embeddings for efficient deployment
   - Easy integration into existing retrieval pipelines
 
+### Supported Languages
+
+Qwen3-VL-Embedding and Qwen3-VL-Reranker supports 33 languages:
+
+- English
+- Chinese
+- Spanish
+- French
+- Arabic
+- Portuguese
+- Russian
+- Urdu
+- Indonesian
+- German
+- Japanese
+- Vietnamese
+- Turkish
+- Korean
+- Persian
+- Italian
+- Thai
+- Polish
+- Ukrainian
+- Uzbek
+- Romanian
+- Dutch
+- Kazakh
+- Greek
+- Czech
+- Swedish
+- Serbian
+- Hebrew
+- Danish
+- Finnish
+- Norwegian
+- Slovenian
+- Irish
+
 ---
 
 ## Model Architecture
